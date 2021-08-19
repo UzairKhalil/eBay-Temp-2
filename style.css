@@ -24,7 +24,7 @@ a {
 	text-decoration: none;
 	color: #1f3110;
 }
-
+table{}
 header {
 	position: sticky;
 	top: 0px;
@@ -354,7 +354,7 @@ section {
 		width: auto;
 	}
 	.logo-container {
-		margin-left: 4rem;
+		margin-left: auto;
 	}
 	.logo {
 		font-size: 0.8rem;
